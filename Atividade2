@@ -1,0 +1,9 @@
+**O que Aprendi em He4rt Developers**
+---
+
+Atualizações recentes
+Adição de um Portal de Documentação (Docs)
+
+Evolução do módulo de documentação para rodar em tempo real, em vez de depender de geradores estáticos.
+Co-localização de diferentes tipos de documentação em um único módulo, facilitando acesso e manutenção.
+
